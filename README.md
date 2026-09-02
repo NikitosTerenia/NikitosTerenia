@@ -29,15 +29,26 @@ I'm studying at TUKE in Košice and developing my programming skills through pra
 
 </div>
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
 ### 🔎 [RepoScope](https://github.com/NikitosTerenia/RepoScope)
 
 A responsive GitHub profile analytics dashboard that displays repositories, stars, programming languages and developer activity.
 
-**Technologies used:**
+**Technologies:** `JavaScript` · `HTML` · `CSS` · `GitHub REST API` · `LocalStorage`
 
-`JavaScript` · `HTML` · `CSS` · `GitHub REST API` · `LocalStorage`
+[Repository](https://github.com/NikitosTerenia/RepoScope) · [Live demo](https://nikitosterenia.github.io/RepoScope/)
+
+---
+
+### 💰 [Spendly](https://github.com/NikitosTerenia/Spendly)
+
+A private browser-based personal finance dashboard for tracking income, expenses, budgets and spending categories.
+
+**Technologies:** `JavaScript` · `HTML` · `CSS` · `Canvas API` · `LocalStorage`
+
+[Repository](https://github.com/NikitosTerenia/Spendly) · [Live demo](https://nikitosterenia.github.io/Spendly/)
+
 
 ## 📊 GitHub statistics
 
