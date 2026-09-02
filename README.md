@@ -1,38 +1,72 @@
-# Hi, I'm Nikita 👋
+<div align="center">
 
-### Applied Informatics student and aspiring software developer
+# Hi 👋, I'm NIKITOS
 
-I'm currently studying at TUKE in Košice and building my programming skills through practical projects.
+### Applied Informatics Student · Aspiring Software Developer
 
-* 🌱 Learning **JavaScript, Python and Web Development**
-* 🐧 Working primarily with **Linux**
-* 🔨 Currently building my developer portfolio
-* 🎯 Interested in frontend, backend and useful web applications
-* 📍 Based in Košice, Slovakia
+`learn → build → improve → repeat`
 
-## 🛠 Technologies
+I'm studying at TUKE in Košice and developing my programming skills through practical projects.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-151515?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-151515?style=for-the-badge\&logo=css3\&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge\&logo=git\&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-151515?style=for-the-badge\&logo=linux\&logoColor=FCC624)
-
-## 🚀 Featured project
-
-### [RepoScope](https://github.com/NikitosTerenia/RepoScope)
-
-A responsive GitHub profile analytics dashboard that displays repositories, stars, programming languages and developer activity.
-
-**Built with:** JavaScript, HTML, CSS, GitHub REST API and LocalStorage.
-
-## 📊 GitHub statistics
-
-![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitosTerenia\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitosTerenia\&layout=compact\&theme=github_dark\&hide_border=true)
+</div>
 
 ---
 
-### Let's build something useful.
+## 👨‍💻 About me
+
+* 🎓 Studying **Applied Informatics at TUKE**
+* 🌱 Currently learning **JavaScript and Python**
+* 🔨 Building practical web-development projects
+* 🐧 Working primarily with **Linux**
+* 🎯 Interested in frontend, backend and useful applications
+* 📍 Based in **Košice, Slovakia**
+
+## 🛠️ Technologies and tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,git,github,linux,bash,vscode\&perline=9)](https://skillicons.dev)
+
+</div>
+
+## 🚀 Featured project
+
+### 🔎 [RepoScope](https://github.com/NikitosTerenia/RepoScope)
+
+A responsive GitHub profile analytics dashboard that displays repositories, stars, programming languages and developer activity.
+
+**Technologies used:**
+
+`JavaScript` · `HTML` · `CSS` · `GitHub REST API` · `LocalStorage`
+
+## 📊 GitHub statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikitosTerenia&theme=github_dark" width="100%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikitosTerenia&theme=github_dark" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikitosTerenia&theme=github_dark" width="49%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikitosTerenia&theme=github_dark" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikitosTerenia&theme=github_dark&utcOffset=2" width="49%">
+
+</div>
+
+## 📈 Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitosTerenia&theme=github-compact&hide_border=true" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something useful 🚀
+
+![Profile views](https://komarev.com/ghpvc/?username=NikitosTerenia\&color=7c3aed\&style=flat-square\&label=Profile+views)
+
+</div>
