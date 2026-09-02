@@ -53,11 +53,11 @@ A responsive GitHub profile analytics dashboard that displays repositories, star
 
 </div>
 
-## 📈 Contribution activity
+## 💡 Coding habits and activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitosTerenia&theme=github-compact&hide_border=true" width="100%">
+<img src="https://metrics.lecoq.io/NikitosTerenia?template=classic&base=&config.timezone=Europe%2FBratislava&config.display=large&plugin.habits=true&plugin.habits.facts=true&plugin.habits.charts=true&plugin.habits.from=200&plugin.habits.days=14&plugin.habits.trim=false" width="100%" alt="Coding habits and activity">
 
 </div>
 
