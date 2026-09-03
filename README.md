@@ -12,7 +12,7 @@ I'm studying at TUKE in Košice and developing my programming skills through pra
 
 ---
 
-## 👨‍💻 About me
+##  About me
 
 * 🎓 Studying **Applied Informatics at TUKE**
 * 🌱 Currently learning **JavaScript and Python**
@@ -21,7 +21,7 @@ I'm studying at TUKE in Košice and developing my programming skills through pra
 * 🎯 Interested in frontend, backend and useful applications
 * 📍 Based in **Košice, Slovakia**
 
-## 🛠️ Technologies and tools
+##  Technologies and tools
 
 <div align="center">
 
@@ -29,9 +29,9 @@ I'm studying at TUKE in Košice and developing my programming skills through pra
 
 </div>
 
-## 🚀 Featured projects
+##  Featured projects
 
-### 🔎 [RepoScope](https://github.com/NikitosTerenia/RepoScope)
+###  [RepoScope](https://github.com/NikitosTerenia/RepoScope)
 
 A responsive GitHub profile analytics dashboard that displays repositories, stars, programming languages and developer activity.
 
@@ -41,7 +41,7 @@ A responsive GitHub profile analytics dashboard that displays repositories, star
 
 ---
 
-### 💰 [Spendly](https://github.com/NikitosTerenia/Spendly)
+###  [Spendly](https://github.com/NikitosTerenia/Spendly)
 
 A private browser-based personal finance dashboard for tracking income, expenses, budgets and spending categories.
 
@@ -50,7 +50,7 @@ A private browser-based personal finance dashboard for tracking income, expenses
 [Repository](https://github.com/NikitosTerenia/Spendly) · [Live demo](https://nikitosterenia.github.io/Spendly/)
 
 
-## 📊 GitHub statistics
+##  GitHub statistics
 
 <div align="center">
 
@@ -64,7 +64,7 @@ A private browser-based personal finance dashboard for tracking income, expenses
 
 </div>
 
-## 💡 Coding habits and activity
+##  Coding habits and activity
 
 <div align="center">
 
@@ -76,7 +76,7 @@ A private browser-based personal finance dashboard for tracking income, expenses
 
 <div align="center">
 
-### Let's build something useful 🚀
+### Let's build something useful 
 
 ![Profile views](https://komarev.com/ghpvc/?username=NikitosTerenia\&color=7c3aed\&style=flat-square\&label=Profile+views)
 
