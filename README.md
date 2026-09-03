@@ -64,13 +64,7 @@ A private browser-based personal finance dashboard for tracking income, expenses
 
 </div>
 
-##  Coding habits and activity
 
-<div align="center">
-
-<img src="https://metrics.lecoq.io/NikitosTerenia?template=classic&base=&config.timezone=Europe%2FBratislava&config.display=large&plugin.habits=true&plugin.habits.facts=true&plugin.habits.charts=true&plugin.habits.from=200&plugin.habits.days=14&plugin.habits.trim=false" width="100%" alt="Coding habits and activity">
-
-</div>
 
 ---
 
